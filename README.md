@@ -34,7 +34,7 @@ Besides coding, I always enjoy writing down notes related to the subjects I am i
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zhenye's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na/crnn-pytorch">
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Zhenye's GitHub Stats" />
 </a>
 
