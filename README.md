@@ -86,7 +86,7 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=2bbc8a&bg_color=0e1116" alt="crnn-pytorch" />
 </a>
 
-### This week, I spent my time on:
+### 🧑‍💻  This week, I spent my time on:
 
 [![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=2bbc8a&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
 
