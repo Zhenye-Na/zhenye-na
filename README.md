@@ -30,6 +30,11 @@ me.say_hi()
 - Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
 - [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
 
+### 📔 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 
 ## 🔧 Technologies & Tools
 
