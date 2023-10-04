@@ -3,7 +3,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
-
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -31,15 +30,15 @@ me.say_hi()
 - [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
 
 ### 📔 Latest Blog posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Java Concurrent Programming 1 - Fundamentals](https://zhenye-na.github.io/blog/2023/05/24/fundamentals-of-java-concurrenct-programming.html)
 - [Introduction to Dependency Injection in Java](https://zhenye-na.github.io/blog/2022/09/18/intro-to-java-dependency-injection.html)
 - [Distributed Transactions and Sagas in Microservices](https://zhenye-na.github.io/blog/2022/06/19/distributed-transactions-and-sagas-in-microservices.html)
 - [Design Patterns: Strategy Pattern](https://zhenye-na.github.io/blog/2022/05/16/design-patterns-the-strategy-pattern.html)
 - [Java Best Practices - Logging](https://zhenye-na.github.io/blog/2022/05/03/java-best-practices-logging.html)
 <!-- BLOG-POST-LIST:END -->
-
-
 
 ## 🔧 Technologies & Tools
 
@@ -64,7 +63,6 @@ me.say_hi()
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
-
 <!-- ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
@@ -78,7 +76,6 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ## 🗂️ Highlight Projects
 
