@@ -89,23 +89,3 @@ me.say_hi()
 <!-- ## 👨‍💻 This week, I spent my time on:
 
 [![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
-
-## 🧧 Sponsorship
-
-Like my projects? Consider to be sponsors by using my **referral link** to open an account for any of the following applications!
-
-> **DISCLAIMER:**
->
-> - This section is for informational purposes only. 
-> - The information in this section is not financial advice, and you should not consider it to be financial advice. 
-> - You should always seek appropriate financial advice from a professional financial advisor in your state. You should not consider this or any other website as a substitute for these services. 
-> - This section does not create a financial agreement or client relationship between you and the owner.
-
-
-| Name      | Logo                                                                                                                                   | Category      | Features                                                                                                                                    | Rewards & Terms                                                                                                                                           | Referral Link                                         | Quota (If applied) |
-|-----------|----------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|--------------------|
-| Marcus    | <img width="25" height="25" src="https://www.debt.org/wp-content/uploads/2021/01/marcus-logo.png" alt="marcus"/>                       | Banking       | Online-only bank offering high-yield savings accounts, high-yield and penalty-free certificates of deposit (CDs), and no-fee personal loans | Earn an extra 1.00% on top of the high-yield rate on Marcus' Online Savings Account                                                                       | `https://www.marcus.com/share/ZHE-8GZ-56DJ`           | 1/5                |
-| Robinhood | <img width="25" height="25" src="https://img.icons8.com/fluency/48/robinhood.png" alt="robinhood"/>                                    | Brokerage     | Investment platform offering commission-free trading of stocks, ETFs, cryptocurrency, and options                                           | Get $5-$200 of stock from your choice                                                                                                                     | `https://join.robinhood.com/zhenyen-652529`           | N/A                |
-| Bilt      | <img width="25" height="25" src="https://pbs.twimg.com/profile_images/1580979205638168577/Wa6cxMEq_400x400.jpg" alt="bilt"/>           | Credit Card   | Earn rewards when you pay rent                                                                                                              | 5X points on all of eligible purchases (excluding rent) for the next 5 days after account opened                                                          | `https://www.biltrewards.com/card/referral/MV6D-GWZO` | 3/50               |
-| Remitly   | <img width="25" height="25" src="https://media.remitly.io/remtily_logo_vertical_midnight_b.6eT0nA18TSlQIsjllF72RN.png" alt="remitly"/> | Online Wiring | Digital remittance service on a mission to make the money transfer process faster, affordable, and more transparent                         | $20 OFF for first transfer of $100 or more                                                                                                                | `https://remit.ly/37xa5yaa`                           | N/A                |
-| moomoo    | <img width="25" height="25" src="https://static.moomoo.com/moomoo_common/images/mm_logo.png" alt="moomoo"/>                            | Brokerage     | Innovative online trading platform and commission-free investment app                                                                       | 5 shares stock for free when transfering in $100, extra 10 shares when transfering in $1000, 1 share of `AMZN` when transfering in $6888. Promotion ends 02/29/2024 | `https://j.moomoo.com/00BdEo`                         | N/A                |
