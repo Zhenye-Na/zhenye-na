@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=otgomes)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
@@ -11,23 +11,24 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
+        self.name = "Otavio Gomes"
         self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.language_spoken = ["pt_BR", "en_US"]
 
-    def say_hi(self):
+    def say_hello(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
 me = SoftwareEngineer()
-me.say_hi()
+me.say_hello()
 ```
 
 ## 📝 Blogs
 
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+- Personal website and blog: https://github.com/otgomes/
+- Notes of GCP Solution Architecture - Associate: https://drive.google.com/drive/folders/1y-chErgGlgnulht9108CT_L1NrvMO86A?usp=drive_link
+- [WIP] LeetCode Solutions & Notes: https://leetcode.com/u/otgomes/
+- Courses and Cerfificates: https://drive.google.com/drive/folders/1fgxkILf6TiBwWazJHm7EcvO9ectZ2s0P?usp=drive_link
 
 ### 📔 Latest Blog posts
 
